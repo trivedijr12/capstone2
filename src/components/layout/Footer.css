@@ -63,6 +63,14 @@
   margin-right: 1rem;
 }
 
+.site-footer-contact > h4,
+.site-footer-nav > h4,
+.site-footer-social > h4 {
+  color: #F4CE14;
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
 /*-- Media queries ------------------------------------------------------*/
 
 @media (max-width: 927px) {

@@ -125,6 +125,7 @@ const BookingForm = ({
       </FormField>
       <button
         className="button-primary"
+        aria-label='On Click'
         type="submit"
         disabled={!areAllFieldsValid()}
       >
